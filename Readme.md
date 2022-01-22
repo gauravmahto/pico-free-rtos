@@ -1,3 +1,10 @@
+## Steps:
+
+Clone with _git clone --recurse-submodules {gitpath}_
+
+1. Cmake - Configure the project for arm-none-eabi
+2. Build the project 
+
 ## Windows
 
 1. https://shawnhymel.com/2096/how-to-set-up-raspberry-pi-pico-c-c-toolchain-on-windows-with-vs-code/
